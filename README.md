@@ -1,6 +1,6 @@
 # For Loop Practice Problems
 
-This repository contains a set of programming practice problems that focus on using for loops. Whether you're a beginner looking to improve your coding skills or an experienced programmer wanting to sharpen your loop-handling abilities, these problems cover a range of difficulty levels.
+This is a personal repository that contains a set of programming practice problems that focus on using for loops. Whether you're a beginner looking to improve your coding skills or an experienced programmer wanting to sharpen your loop-handling abilities, these problems cover a range of difficulty levels.
 
 ## Basic Level
 
@@ -26,10 +26,7 @@ This repository contains a set of programming practice problems that focus on us
 14. **Matrix Operations:** Create a program that can perform matrix addition, subtraction, and multiplication using for loops.
 15. **Word Frequency Counter:** Given a paragraph of text, count and print the frequency of each word using a for loop.
 
-Feel free to choose problems from different levels to match your current skill level and gradually work your way up to more complex challenges. These exercises will help you improve your programming skills and understanding of for loops.
-
 ## Contributing
+If you'd like to share some problems to practice, please do!
 
-If you have additional for loop practice problems or solutions in different programming languages, feel free to contribute to this repository. Follow the standard GitHub workflow to create pull requests for your additions.
-
-Happy coding!
+# Happy coding!
