@@ -23,8 +23,7 @@ This is a personal repository that contains a set of programming practice proble
 11. **Pascal's Triangle:** Generate and print the first n rows of Pascal's triangle using a for loop.
 12. **Matrix Multiplication:** Write a program to multiply two matrices using nested for loops.
 13. **Sorting Algorithm:** Implement a sorting algorithm (e.g., Bubble Sort, Selection Sort) using a for loop and sort an array of numbers.
-14. **Matrix Operations:** Create a program that can perform matrix addition, subtraction, and multiplication using for loops.
-15. **Word Frequency Counter:** Given a paragraph of text, count and print the frequency of each word using a for loop.
+14. **Word Frequency Counter:** Given a paragraph of text, count and print the frequency of each word using a for loop.
 
 ## Contributing
 If you'd like to share some problems to practice, please do!
